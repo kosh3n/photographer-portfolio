@@ -156,7 +156,6 @@ h2 {
         margin-top: 0px;
         margin-left: -40px;
         padding-left: 30px;
-
     }
 
     .nav-item__hide {
@@ -256,7 +255,6 @@ a:hover {
         padding-top: 76px;
         padding-right: 70px;
         padding-left: 60px;
-
     }
 }
 
@@ -274,7 +272,6 @@ a:hover {
         font-size: 32px;
         line-height: 64px;
         margin-bottom: 10px;
-
     }
 }
 
@@ -398,8 +395,6 @@ h2:after {
     }
 }
 
-.skills-body {}
-
 .skills-items {
     display: flex;
     justify-content: space-between;
@@ -428,7 +423,6 @@ h2:after {
 @media (max-width: 768px) {
     .skills-card__icon {
         margin-right: -60px;
-
     }
 }
 
